@@ -14,5 +14,5 @@ JavaScript & HTML.
 
 ## Author
 
-* **Skye Gill** - [Skyerus](https://github.com/Skyerus)
+**Skye Gill** - [Skyerus](https://github.com/Skyerus)
 
